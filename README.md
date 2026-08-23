@@ -52,4 +52,4 @@ The environment was engineered entirely within **VMware Workstation Pro**, utili
 
 ---
 
-*Note: This project is adapted from Grant Collins' Project X curriculum, modified to utilize VMware Workstation Pro for enhanced hypervisor isolation and performance.*
+*Note: This project is adapted from Grant Collins' excellent Project Security curriculum, modified by me to utilize VMware Workstation Pro for enhanced hypervisor isolation and performance.*
